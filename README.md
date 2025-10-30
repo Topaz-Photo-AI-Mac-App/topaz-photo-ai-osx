@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/topaxpgotoaimac">  
+<a href="https://get-software-osx.github.io/.github/topazphotoaimac">  
 <img src="https://img.shields.io/badge/Get_Topaz_Photo_AI_for_macOS-0ABAB5?style=for-the-badge&logo=apple" alt="Get Topaz Photo AI for macOS">  
 </a>  
 </div>  
